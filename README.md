@@ -130,6 +130,7 @@ I built this agent to understand the semiconductor supply chain from first princ
 
 **Aman Jaiswal**
 MBA Candidate, Simon Business School, University of Rochester
+
 Background: Finance (UBS, Credit Suisse) | Strategy & Corporate Finance
 
 ## Acknowledgments
